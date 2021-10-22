@@ -1,4 +1,4 @@
-### Olá sou o Doshino <3
+### Oii! sou o Doshino <3
 
 <div align="center">
   <a href="https://github.com/doshino">
