@@ -10,7 +10,7 @@
   <img align="center" alt="Dosh-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Dosh-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Dosh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Dosh-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/855490433094647841/901122989247049748/download20211005120043.png">
+  <img align="right" alt="Dosh-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/919393171862085702/929494727663960114/aaa.png">
   
 ##
  
