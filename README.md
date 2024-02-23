@@ -1,4 +1,4 @@
-### Oii! sou o Doshino <3
+### Prazer! Me chamo Leonardo 🙃
 
 <div align="center">
   <a href="https://github.com/doshino">
