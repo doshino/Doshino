@@ -30,7 +30,7 @@
 <a href="https://github.com/doshino/doshino-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doshino&repo=doshino-bot&theme=merko" />
 </a>
-<a href="https://github.com/doshino/Doshino">
+<a href="https://github.com/doshino/Chess">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doshino&repo=Doshino&theme=merko" />
 </a>
 
