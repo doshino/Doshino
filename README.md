@@ -5,6 +5,7 @@
 
 
 <div align="center" style="display: inline_block"><br>
+  <img align="left" alt="Dosh-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/GDS0PVIWkAAm1Xy.jpg">
   <img align="center" alt="Dosh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dosh-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Dosh-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
