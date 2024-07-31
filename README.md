@@ -1,6 +1,6 @@
 ### Hello World! My name is Leonardo 🙃
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=doshino&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true" alt="Doshino's github stats" /></a> | <a href="https://github.com/doshino/Doshino"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doshino&layout=compact&theme=material-palenight&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=doshino&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Doshino's github stats" /></a> | <a href="https://github.com/doshino/Doshino"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doshino&layout=compact&theme=material-palenight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
