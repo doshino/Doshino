@@ -1,4 +1,4 @@
-### Prazer! Me chamo Leonardo 🙃
+### Hello World! My name is Leonardo 🙃
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=doshino&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Doshino's github stats" /></a> | <a href="https://github.com/doshino/Doshino"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doshino&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -24,7 +24,7 @@
  
 </div>
 
-#### Top Repositories
+#### My Favorite Repositories
 
 
 <a href="https://github.com/doshino/doshino-bot">
