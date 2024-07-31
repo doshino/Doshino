@@ -2,10 +2,7 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=doshino&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Doshino's github stats" /></a> | <a href="https://github.com/doshino/Doshino"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doshino&layout=compact&theme=merko&hide_border=true" /></a> |
 | ------------- | ------------- |
-<div align="center">
-  <a href="https://github.com/doshino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doshino&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doshino&layout=compact&langs_count=7&theme=merko"/>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dosh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -42,7 +39,4 @@
 
 <a href="https://twitter.com/_Doshino">
   <img align="right" alt="Doshino | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
