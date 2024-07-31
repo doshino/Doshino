@@ -11,7 +11,7 @@
   <img align="center" alt="Dosh-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Dosh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dosh-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Dosh-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/942132005078990899/1040114030850871306/unknown.png">
+  <img align="right" alt="Dosh-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/GDS0PVIWkAAm1Xy.jpg">
   
 ##
  
