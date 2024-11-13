@@ -5,13 +5,13 @@
 
 
 <div align="center" style="display: inline_block"><br>
-  <img align="left" alt="Dosh-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/GDS0PVIWkAAm1Xy.jpg">
+  <img align="left" alt="Dosh-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1306102493054500945/1306125276832469102/f790e862ee7035873267ee251520a90c.png?ex=67358774&is=673435f4&hm=0791a55f923ab4891462d289eeb252457bd16c4cc4e48b7f0c2ce59457cc45d7&">
   <img align="center" alt="Dosh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dosh-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Dosh-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Dosh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dosh-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Dosh-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/GDS0PVIWkAAm1Xy.jpg">
+  <img align="right" alt="Dosh-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1306102493054500945/1306125398379335710/e43c86866fb13f530a5e83873d59c224.png?ex=67358791&is=67343611&hm=d89ac6d9e73fe6d97400db5f385075387ca7b7addeb1c56738eee0e74b270ce5&">
   
 ##
  
