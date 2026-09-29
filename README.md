@@ -34,10 +34,10 @@
 
 
 <a href="https://github.com/doshino/doshino-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doshino&repo=doshino-bot&theme=transparent" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=doshino&repo=doshino-bot&theme=transparent" />
 </a>
 <a href="https://github.com/doshino/RadiantColors">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doshino&repo=RadiantColors&theme=transparent" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=doshino&repo=RadiantColors&theme=transparent" />
 </a>
 
 <br />
